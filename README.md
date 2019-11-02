@@ -1,1 +1,1 @@
-# quiz
+# I did not have much time too work on this project. I tried to use css more and no bootstrap. The reason i did that was to get a refreshers on css. I got the question and answers to display when start button is hit but after the first start. But I could not get the rest in the app.
